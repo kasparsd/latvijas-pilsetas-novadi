@@ -1,0 +1,813 @@
+{
+    "pilsetas": [
+        "﻿Daugavpils",
+        "Jēkabpils",
+        "Jelgava",
+        "Jūrmala",
+        "Liepāja",
+        "Rēzekne",
+        "Rīga",
+        "Valmiera",
+        "Ventspils"
+    ],
+    "novadi": {
+        "Ādažu novads": [
+
+        ],
+        "Aglonas novads": [
+            "Aglonas pagasts",
+            "Grāveru pagasts",
+            "Kastuļinas pagasts",
+            "Šķeltovas pagasts"
+        ],
+        "Aizkraukles novads": [
+            "Aizkraukles pagasts",
+            "Aizkraukles pilsēta"
+        ],
+        "Aizputes novads": [
+            "Aizputes pagasts",
+            "Aizputes pilsēta",
+            "Cīravas pagasts",
+            "Kalvenes pagasts",
+            "Kazdangas pagasts",
+            "Lažas pagasts"
+        ],
+        "Aknīstes novads": [
+            "Aknīstes pagasts",
+            "Aknīstes pilsēta",
+            "Asares pagasts",
+            "Gārsenes pagasts"
+        ],
+        "Alojas novads": [
+            "Alojas pagasts",
+            "Alojas pilsēta",
+            "Braslavas pagasts",
+            "Brīvzemnieku pagasts",
+            "Staiceles pagasts",
+            "Staiceles pilsēta"
+        ],
+        "Alsungas novads": [
+
+        ],
+        "Alūksnes novads": [
+            "Alsviķu pagasts",
+            "Alūksnes pilsēta",
+            "Annas pagasts",
+            "Ilzenes pagasts",
+            "Jaunalūksnes pagasts",
+            "Jaunannas pagasts",
+            "Jaunlaicenes pagasts",
+            "Kalncempju pagasts",
+            "Liepnas pagasts",
+            "Malienas pagasts",
+            "Mālupes pagasts",
+            "Mārkalnes pagasts",
+            "Pededzes pagasts",
+            "Veclaicenes pagasts",
+            "Zeltiņu pagasts",
+            "Ziemera pagasts"
+        ],
+        "Amatas novads": [
+            "Amatas pagasts",
+            "Drabešu pagasts",
+            "Nītaures pagasts",
+            "Skujenes pagasts",
+            "Zaubes pagasts"
+        ],
+        "Apes novads": [
+            "Apes pagasts",
+            "Apes pilsēta",
+            "Gaujienas pagasts",
+            "Trapenes pagasts",
+            "Virešu pagasts"
+        ],
+        "Auces novads": [
+            "Auces pilsēta",
+            "Bēnes pagasts",
+            "Īles pagasts",
+            "Lielauces pagasts",
+            "Ukru pagasts",
+            "Vecauces pagasts",
+            "Vītiņu pagasts"
+        ],
+        "Babītes novads": [
+            "Babītes pagasts",
+            "Salas pagasts"
+        ],
+        "Baldones novads": [
+            "Baldones pagasts",
+            "Baldones pilsēta"
+        ],
+        "Baltinavas novads": [
+
+        ],
+        "Balvu novads": [
+            "Balvu pagasts",
+            "Balvu pilsēta",
+            "Bērzkalnes pagasts",
+            "Bērzpils pagasts",
+            "Briežuciema pagasts",
+            "Krišjāņu pagasts",
+            "Kubulu pagasts",
+            "Lazdulejas pagasts",
+            "Tilžas pagasts",
+            "Vectilžas pagasts",
+            "Vīksnas pagasts"
+        ],
+        "Bauskas novads": [
+            "Bauskas pilsēta",
+            "Brunavas pagasts",
+            "Ceraukstes pagasts",
+            "Codes pagasts",
+            "Dāviņu pagasts",
+            "Gailīšu pagasts",
+            "Īslīces pagasts",
+            "Mežotnes pagasts",
+            "Vecsaules pagasts"
+        ],
+        "Beverīnas novads": [
+            "Brenguļu pagasts",
+            "Kauguru pagasts",
+            "Trikātas pagasts"
+        ],
+        "Brocēnu novads": [
+            "Blīdenes pagasts",
+            "Brocēnu pilsēta",
+            "Cieceres pagasts",
+            "Gaiķu pagasts",
+            "Remtes pagasts"
+        ],
+        "Burtnieku novads": [
+            "Burtnieku pagasts",
+            "Ēveles pagasts",
+            "Matīšu pagasts",
+            "Rencēnu pagasts",
+            "Valmieras pagasts",
+            "Vecates pagasts"
+        ],
+        "Carnikavas novads": [
+
+        ],
+        "Cēsu novads": [
+            "Cēsu pilsēta",
+            "Vaives pagasts"
+        ],
+        "Cesvaines novads": [
+            "Cesvaines pagasts",
+            "Cesvaines pilsēta"
+        ],
+        "Ciblas novads": [
+            "Blontu pagasts",
+            "Ciblas pagasts",
+            "Līdumnieku pagasts",
+            "Pušmucovas pagasts",
+            "Zvirgzdenes pagasts"
+        ],
+        "Dagdas novads": [
+            "Andrupenes pagasts",
+            "Andzeļu pagasts",
+            "Asūnes pagasts",
+            "Bērziņu pagasts",
+            "Dagdas pagasts",
+            "Dagdas pilsēta",
+            "Ezernieku pagasts",
+            "Konstantinovas pagasts",
+            "Ķepovas pagasts",
+            "Svariņu pagasts",
+            "Šķaunes pagasts"
+        ],
+        "Daugavpils novads": [
+            "Ambeļu pagasts",
+            "Biķernieku pagasts",
+            "Demenes pagasts",
+            "Dubnas pagasts",
+            "Kalkūnes pagasts",
+            "Kalupes pagasts",
+            "Laucesas pagasts",
+            "Līksnas pagasts",
+            "Maļinovas pagasts",
+            "Medumu pagasts",
+            "Naujenes pagasts",
+            "Nīcgales pagasts",
+            "Salienas pagasts",
+            "Skrudalienas pagasts",
+            "Sventes pagasts",
+            "Tabores pagasts",
+            "Vaboles pagasts",
+            "Vecsalienas pagasts",
+            "Višķu pagasts"
+        ],
+        "Dobeles novads": [
+            "Annenieku pagasts",
+            "Auru pagasts",
+            "Bērzes pagasts",
+            "Bikstu pagasts",
+            "Dobeles pagasts",
+            "Dobeles pilsēta",
+            "Jaunbērzes pagasts",
+            "Krimūnu pagasts",
+            "Naudītes pagasts",
+            "Penkules pagasts",
+            "Zebrenes pagasts"
+        ],
+        "Dundagas novads": [
+            "Dundagas pagasts",
+            "Kolkas pagasts"
+        ],
+        "Durbes novads": [
+            "Dunalkas pagasts",
+            "Durbes pagasts",
+            "Durbes pilsēta",
+            "Tadaiķu pagasts",
+            "Vecpils pagasts"
+        ],
+        "Engures novads": [
+            "Engures pagasts",
+            "Lapmežciema pagasts",
+            "Smārdes pagasts"
+        ],
+        "Ērgļu novads": [
+            "Ērgļu pagasts",
+            "Jumurdas pagasts",
+            "Sausnējas pagasts"
+        ],
+        "Garkalnes novads": [
+
+        ],
+        "Grobiņas novads": [
+            "Bārtas pagasts",
+            "Gaviezes pagasts",
+            "Grobiņas pagasts",
+            "Grobiņas pilsēta",
+            "Medzes pagasts"
+        ],
+        "Gulbenes novads": [
+            "Beļavas pagasts",
+            "Daukstu pagasts",
+            "Druvienas pagasts",
+            "Galgauskas pagasts",
+            "Gulbenes pilsēta",
+            "Jaungulbenes pagasts",
+            "Lejasciema pagasts",
+            "Līgo pagasts",
+            "Litenes pagasts",
+            "Lizuma pagasts",
+            "Rankas pagasts",
+            "Stāmerienas pagasts",
+            "Stradu pagasts",
+            "Tirzas pagasts"
+        ],
+        "Iecavas novads": [
+
+        ],
+        "Ikšķiles novads": [
+            "Ikšķiles pilsēta",
+            "Tīnūžu pagasts"
+        ],
+        "Ilūkstes novads": [
+            "Bebrenes pagasts",
+            "Dvietes pagasts",
+            "Eglaines pagasts",
+            "Ilūkstes pilsēta",
+            "Pilskalnes pagasts",
+            "Prodes pagasts",
+            "Subates pilsēta",
+            "Šēderes pagasts"
+        ],
+        "Inčukalna novads": [
+            "Inčukalna pagasts",
+            "Vangažu pilsēta"
+        ],
+        "Jaunjelgavas novads": [
+            "Daudzeses pagasts",
+            "Jaunjelgavas pagasts",
+            "Jaunjelgavas pilsēta",
+            "Seces pagasts",
+            "Sērenes pagasts",
+            "Staburaga pagasts",
+            "Sunākstes pagasts"
+        ],
+        "Jaunpiebalgas novads": [
+            "Jaunpiebalgas pagasts",
+            "Zosēnu pagasts"
+        ],
+        "Jaunpils novads": [
+            "Jaunpils pagasts",
+            "Viesatu pagasts"
+        ],
+        "Jēkabpils novads": [
+            "Ābeļu pagasts",
+            "Dignājas pagasts",
+            "Dunavas pagasts",
+            "Kalna pagasts",
+            "Leimaņu pagasts",
+            "Rubenes pagasts",
+            "Zasas pagasts"
+        ],
+        "Jelgavas novads": [
+            "Elejas pagasts",
+            "Glūdas pagasts",
+            "Jaunsvirlaukas pagasts",
+            "Kalnciema pagasts",
+            "Lielplatones pagasts",
+            "Līvbērzes pagasts",
+            "Platones pagasts",
+            "Sesavas pagasts",
+            "Svētes pagasts",
+            "Valgundes pagasts",
+            "Vilces pagasts",
+            "Vircavas pagasts",
+            "Zaļenieku pagasts"
+        ],
+        "Kandavas novads": [
+            "Cēres pagasts",
+            "Kandavas pagasts",
+            "Kandavas pilsēta",
+            "Matkules pagasts",
+            "Vānes pagasts",
+            "Zantes pagasts",
+            "Zemītes pagasts"
+        ],
+        "Kārsavas novads": [
+            "Goliševas pagasts",
+            "Kārsavas pilsēta",
+            "Malnavas pagasts",
+            "Mērdzenes pagasts",
+            "Mežvidu pagasts",
+            "Salnavas pagasts"
+        ],
+        "Kocēnu novads": [
+            "Bērzaines pagasts",
+            "Dikļu pagasts",
+            "Kocēnu pagasts",
+            "Vaidavas pagasts",
+            "Zilākalna pagasts"
+        ],
+        "Kokneses novads": [
+            "Bebru pagasts",
+            "Iršu pagasts",
+            "Kokneses pagasts"
+        ],
+        "Krāslavas novads": [
+            "Aulejas pagasts",
+            "Indras pagasts",
+            "Izvaltas pagasts",
+            "Kalniešu pagasts",
+            "Kaplavas pagasts",
+            "Kombuļu pagasts",
+            "Krāslavas pagasts",
+            "Krāslavas pilsēta",
+            "Piedrujas pagasts",
+            "Robežnieku pagasts",
+            "Skaistas pagasts",
+            "Ūdrīšu pagasts"
+        ],
+        "Krimuldas novads": [
+            "Krimuldas pagasts",
+            "Lēdurgas pagasts"
+        ],
+        "Krustpils novads": [
+            "Atašienes pagasts",
+            "Krustpils pagasts",
+            "Kūku pagasts",
+            "Mežāres pagasts",
+            "Variešu pagasts",
+            "Vīpes pagasts"
+        ],
+        "Kuldīgas novads": [
+            "Ēdoles pagasts",
+            "Gudenieku pagasts",
+            "Īvandes pagasts",
+            "Kabiles pagasts",
+            "Kuldīgas pilsēta",
+            "Kurmāles pagasts",
+            "Laidu pagasts",
+            "Padures pagasts",
+            "Pelču pagasts",
+            "Rendas pagasts",
+            "Rumbas pagasts",
+            "Snēpeles pagasts",
+            "Turlavas pagasts",
+            "Vārmes pagasts"
+        ],
+        "Ķeguma novads": [
+            "Birzgales pagasts",
+            "Ķeguma pilsēta",
+            "Rembates pagasts",
+            "Tomes pagasts"
+        ],
+        "Ķekavas novads": [
+            "Baložu pilsēta",
+            "Daugmales pagasts",
+            "Ķekavas pagasts"
+        ],
+        "Lielvārdes novads": [
+            "Jumpravas pagasts",
+            "Lēdmanes pagasts",
+            "Lielvārdes pagasts",
+            "Lielvārdes pilsēta"
+        ],
+        "Līgatnes novads": [
+            "Līgatnes pagasts",
+            "Līgatnes pilsēta"
+        ],
+        "Limbažu novads": [
+            "Katvaru pagasts",
+            "Limbažu pagasts",
+            "Limbažu pilsēta",
+            "Pāles pagasts",
+            "Skultes pagasts",
+            "Umurgas pagasts",
+            "Vidrižu pagasts",
+            "Viļķenes pagasts"
+        ],
+        "Līvānu novads": [
+            "Jersikas pagasts",
+            "Līvānu pilsēta",
+            "Rožupes pagasts",
+            "Rudzātu pagasts",
+            "Sutru pagasts",
+            "Turku pagasts"
+        ],
+        "Lubānas novads": [
+            "Indrānu pagasts",
+            "Lubānas pilsēta"
+        ],
+        "Ludzas novads": [
+            "Briģu pagasts",
+            "Cirmas pagasts",
+            "Isnaudas pagasts",
+            "Istras pagasts",
+            "Ludzas pilsēta",
+            "Nirzas pagasts",
+            "Ņukšu pagasts",
+            "Pildas pagasts",
+            "Pureņu pagasts",
+            "Rundēnu pagasts"
+        ],
+        "Madonas novads": [
+            "Aronas pagasts",
+            "Barkavas pagasts",
+            "Bērzaunes pagasts",
+            "Dzelzavas pagasts",
+            "Kalsnavas pagasts",
+            "Lazdonas pagasts",
+            "Liezēres pagasts",
+            "Ļaudonas pagasts",
+            "Madonas pilsēta",
+            "Mārcienas pagasts",
+            "Mētrienas pagasts",
+            "Ošupes pagasts",
+            "Praulienas pagasts",
+            "Sarkaņu pagasts",
+            "Vestienas pagasts"
+        ],
+        "Mālpils novads": [
+
+        ],
+        "Mārupes novads": [
+
+        ],
+        "Mazsalacas novads": [
+            "Mazsalacas pagasts",
+            "Mazsalacas pilsēta",
+            "Ramatas pagasts",
+            "Sēļu pagasts",
+            "Skaņkalnes pagasts"
+        ],
+        "Mērsraga novads": [
+
+        ],
+        "Naukšēnu novads": [
+            "Ķoņu pagasts",
+            "Naukšēnu pagasts"
+        ],
+        "Neretas novads": [
+            "Mazzalves pagasts",
+            "Neretas pagasts",
+            "Pilskalnes pagasts",
+            "Zalves pagasts"
+        ],
+        "Nīcas novads": [
+            "Nīcas pagasts",
+            "Otaņķu pagasts"
+        ],
+        "Ogres novads": [
+            "Krapes pagasts",
+            "Ķeipenes pagasts",
+            "Lauberes pagasts",
+            "Madlienas pagasts",
+            "Mazozolu pagasts",
+            "Meņģeles pagasts",
+            "Ogresgala pagasts",
+            "Ogres pilsēta",
+            "Suntažu pagasts",
+            "Taurupes pagasts"
+        ],
+        "Olaines novads": [
+            "Olaines pagasts",
+            "Olaines pilsēta"
+        ],
+        "Ozolnieku novads": [
+            "Cenu pagasts",
+            "Ozolnieku pagasts",
+            "Salgales pagasts"
+        ],
+        "Pārgaujas novads": [
+            "Raiskuma pagasts",
+            "Stalbes pagasts",
+            "Straupes pagasts"
+        ],
+        "Pāvilostas novads": [
+            "Pāvilostas pilsēta",
+            "Sakas pagasts",
+            "Vērgales pagasts"
+        ],
+        "Pļaviņu novads": [
+            "Aiviekstes pagasts",
+            "Klintaines pagasts",
+            "Pļaviņu pilsēta",
+            "Vietalvas pagasts"
+        ],
+        "Preiļu novads": [
+            "Aizkalnes pagasts",
+            "Pelēču pagasts",
+            "Preiļu pagasts",
+            "Preiļu pilsēta",
+            "Saunas pagasts"
+        ],
+        "Priekules novads": [
+            "Bunkas pagasts",
+            "Gramzdas pagasts",
+            "Kalētu pagasts",
+            "Priekules pagasts",
+            "Priekules pilsēta",
+            "Virgas pagasts"
+        ],
+        "Priekuļu novads": [
+            "Liepas pagasts",
+            "Mārsnēnu pagasts",
+            "Priekuļu pagasts",
+            "Veselavas pagasts"
+        ],
+        "Raunas novads": [
+            "Drustu pagasts",
+            "Raunas pagasts"
+        ],
+        "Rēzeknes novads": [
+            "Audriņu pagasts",
+            "Bērzgales pagasts",
+            "Čornajas pagasts",
+            "Dricānu pagasts",
+            "Feimaņu pagasts",
+            "Gaigalavas pagasts",
+            "Griškānu pagasts",
+            "Ilzeskalna pagasts",
+            "Kantinieku pagasts",
+            "Kaunatas pagasts",
+            "Lendžu pagasts",
+            "Lūznavas pagasts",
+            "Mākoņkalna pagasts",
+            "Maltas pagasts",
+            "Nagļu pagasts",
+            "Nautrēnu pagasts",
+            "Ozolaines pagasts",
+            "Ozolmuižas pagasts",
+            "Pušas pagasts",
+            "Rikavas pagasts",
+            "Sakstagala pagasts",
+            "Silmalas pagasts",
+            "Stoļerovas pagasts",
+            "Stružānu pagasts",
+            "Vērēmu pagasts"
+        ],
+        "Riebiņu novads": [
+            "Galēnu pagasts",
+            "Riebiņu pagasts",
+            "Rušonas pagasts",
+            "Silajāņu pagasts",
+            "Sīļukalna pagasts",
+            "Stabulnieku pagasts"
+        ],
+        "Rojas novads": [
+
+        ],
+        "Ropažu novads": [
+
+        ],
+        "Rucavas novads": [
+            "Dunikas pagasts",
+            "Rucavas pagasts"
+        ],
+        "Rugāju novads": [
+            "Lazdukalna pagasts",
+            "Rugāju pagasts"
+        ],
+        "Rūjienas novads": [
+            "Ipiķu pagasts",
+            "Jeru pagasts",
+            "Lodes pagasts",
+            "Rūjienas pilsēta",
+            "Vilpulkas pagasts"
+        ],
+        "Rundāles novads": [
+            "Rundāles pagasts",
+            "Svitenes pagasts",
+            "Viesturu pagasts"
+        ],
+        "Salacgrīvas novads": [
+            "Ainažu pagasts",
+            "Ainažu pilsēta",
+            "Liepupes pagasts",
+            "Salacgrīvas pagasts",
+            "Salacgrīvas pilsēta"
+        ],
+        "Salas novads": [
+            "Salas pagasts",
+            "Sēlpils pagasts"
+        ],
+        "Salaspils novads": [
+            "Salaspils pagasts",
+            "Salaspils pilsēta"
+        ],
+        "Saldus novads": [
+            "Ezeres pagasts",
+            "Jaunauces pagasts",
+            "Jaunlutriņu pagasts",
+            "Kursīšu pagasts",
+            "Lutriņu pagasts",
+            "Nīgrandes pagasts",
+            "Novadnieku pagasts",
+            "Pampāļu pagasts",
+            "Rubas pagasts",
+            "Saldus pagasts",
+            "Saldus pilsēta",
+            "Šķēdes pagasts",
+            "Vadakstes pagasts",
+            "Zaņas pagasts",
+            "Zirņu pagasts",
+            "Zvārdes pagasts"
+        ],
+        "Saulkrastu novads": [
+            "Saulkrastu pagasts",
+            "Saulkrastu pilsēta"
+        ],
+        "Sējas novads": [
+
+        ],
+        "Siguldas novads": [
+            "Allažu pagasts",
+            "Mores pagasts",
+            "Siguldas pagasts",
+            "Siguldas pilsēta"
+        ],
+        "Skrīveru novads": [
+
+        ],
+        "Skrundas novads": [
+            "Nīkrāces pagasts",
+            "Raņķu pagasts",
+            "Rudbāržu pagasts",
+            "Skrundas pagasts",
+            "Skrundas pilsēta"
+        ],
+        "Smiltenes novads": [
+            "Bilskas pagasts",
+            "Blomes pagasts",
+            "Brantu pagasts",
+            "Grundzāles pagasts",
+            "Launkalnes pagasts",
+            "Palsmanes pagasts",
+            "Smiltenes pagasts",
+            "Smiltenes pilsēta",
+            "Variņu pagasts"
+        ],
+        "Stopiņu novads": [
+
+        ],
+        "Strenču novads": [
+            "Jērcēnu pagasts",
+            "Plāņu pagasts",
+            "Sedas pilsēta",
+            "Strenču pilsēta"
+        ],
+        "Talsu novads": [
+            "Abavas pagasts",
+            "Ārlavas pagasts",
+            "Balgales pagasts",
+            "Ģibuļu pagasts",
+            "Īves pagasts",
+            "Ķūļciema pagasts",
+            "Laidzes pagasts",
+            "Laucienes pagasts",
+            "Lībagu pagasts",
+            "Lubes pagasts",
+            "Sabiles pilsēta",
+            "Stendes pilsēta",
+            "Strazdes pagasts",
+            "Talsu pilsēta",
+            "Valdemārpils pilsēta",
+            "Valdgales pagasts",
+            "Vandzenes pagasts",
+            "Virbu pagasts"
+        ],
+        "Tērvetes novads": [
+            "Augstkalnes pagasts",
+            "Bukaišu pagasts",
+            "Tērvetes pagasts"
+        ],
+        "Tukuma novads": [
+            "Degoles pagasts",
+            "Džūkstes pagasts",
+            "Irlavas pagasts",
+            "Jaunsātu pagasts",
+            "Lestenes pagasts",
+            "Pūres pagasts",
+            "Sēmes pagasts",
+            "Slampes pagasts",
+            "Tukuma pilsēta",
+            "Tumes pagasts",
+            "Zentenes pagasts"
+        ],
+        "Vaiņodes novads": [
+            "Embūtes pagasts",
+            "Vaiņodes pagasts"
+        ],
+        "Valkas novads": [
+            "Ērģemes pagasts",
+            "Kārķu pagasts",
+            "Valkas pagasts",
+            "Valkas pilsēta",
+            "Vijciema pagasts",
+            "Zvārtavas pagasts"
+        ],
+        "Varakļānu novads": [
+            "Murmastienes pagasts",
+            "Varakļānu pagasts",
+            "Varakļānu pilsēta"
+        ],
+        "Vārkavas novads": [
+            "Rožkalnu pagasts",
+            "Upmalas pagasts",
+            "Vārkavas pagasts"
+        ],
+        "Vecpiebalgas novads": [
+            "Dzērbenes pagasts",
+            "Inešu pagasts",
+            "Kaives pagasts",
+            "Taurenes pagasts",
+            "Vecpiebalgas pagasts"
+        ],
+        "Vecumnieku novads": [
+            "Bārbeles pagasts",
+            "Kurmenes pagasts",
+            "Skaistkalnes pagasts",
+            "Stelpes pagasts",
+            "Valles pagasts",
+            "Vecumnieku pagasts"
+        ],
+        "Ventspils novads": [
+            "Ances pagasts",
+            "Jūrkalnes pagasts",
+            "Piltenes pagasts",
+            "Piltenes pilsēta",
+            "Popes pagasts",
+            "Puzes pagasts",
+            "Tārgales pagasts",
+            "Ugāles pagasts",
+            "Usmas pagasts",
+            "Užavas pagasts",
+            "Vārves pagasts",
+            "Ziru pagasts",
+            "Zlēku pagasts"
+        ],
+        "Viesītes novads": [
+            "Elkšņu pagasts",
+            "Rites pagasts",
+            "Saukas pagasts",
+            "Viesītes pagasts",
+            "Viesītes pilsēta"
+        ],
+        "Viļakas novads": [
+            "Kupravas pagasts",
+            "Medņevas pagasts",
+            "Susāju pagasts",
+            "Šķilbēnu pagasts",
+            "Vecumu pagasts",
+            "Viļakas pilsēta",
+            "Žīguru pagasts"
+        ],
+        "Viļānu novads": [
+            "Dekšāres pagasts",
+            "Sokolku pagasts",
+            "Viļānu pagasts",
+            "Viļānu pilsēta"
+        ],
+        "Zilupes novads": [
+            "Lauderu pagasts",
+            "Pasienes pagasts",
+            "Zaļesjes pagasts",
+            "Zilupes pilsēta"
+        ]
+    }
+}
